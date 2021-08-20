@@ -1,1 +1,1 @@
-I have done this project in two different repo's so I couldn't update them consistently. So I made all the code to checkout at Checkpoint 13
+**Hotel Booking Website** - In this Project, I developed a system for customers to book rooms in hotels in advance. Used HTML, CSS, Javascript, Bootstrap to develop this project. Used HTML to create the structure of the project. CSS, Bootstrap to implement user design elements and added dynamic features using Javascript and made API calls to add real-time data from about the hotels.  
